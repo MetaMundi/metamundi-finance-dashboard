@@ -11,6 +11,7 @@ Este repositório contém a proposta funcional e técnica para o **Sistema de Co
 ## Estrutura
 
 - `docs/arquitetura-conciliacao.md`: documento detalhado com requisitos, modelo de dados, fluxos e roadmap de implementação.
+- `docs/metamundi-conciliacao-blueprint.md`: blueprint técnico com esquema de banco, pipeline de processamento, dashboard e lógica da IA conversacional.
 
 ## Próximos passos sugeridos
 
